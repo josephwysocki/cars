@@ -1,5 +1,8 @@
 ---
-title: "speed-and-distance"
+title: "index"
+author: "Joseph Wysocki"
+date: "9/5/2020"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
